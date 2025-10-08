@@ -1,3 +1,4 @@
+# AI-Powered-Medical-Report-Reader
 AI-Powered Medical Report Reader
 This is a full-stack web application designed to help patients understand their medical reports. Users can input their report either by typing/pasting text or by uploading a scanned image. The application then uses AI to generate a simplified, patient-friendly summary of the findings.
 The project is built with a Node.js/Express backend and a React/Vite frontend.
